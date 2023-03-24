@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+}
+*
+{
+  margin: 0px;
+  padding: 0px;
+  font-family: 'Open Sans';
+}
+
+.main-container
+{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+
+.app-body
+{
+  max-width: 390px;
+  min-width: 390px;
+  max-height: 842px;
+  border: 2px solid black;
+}

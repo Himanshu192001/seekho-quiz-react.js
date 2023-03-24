@@ -1,0 +1,22 @@
+.result-page
+{
+
+    position: relative;
+    height: 686px;
+    background-color:  #8031A7;
+    flex-direction: column;
+
+}
+
+.result-point
+{
+    color: white;
+    font-size: 42px;
+    font-weight: 900;
+}
+
+.icon-result{
+    display: flex;
+    justify-content: center;
+    font-size:76px
+}

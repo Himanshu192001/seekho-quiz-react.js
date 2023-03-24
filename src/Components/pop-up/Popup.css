@@ -1,0 +1,64 @@
+.pop-up
+{
+    z-index: 2;
+    background-color: #e9cff6;
+    position: absolute;
+    top: 301px;
+    width: 390px;
+    height: 381px;
+    border-radius: 67px 67px 0px 0px;
+}
+
+.pop-up-content
+{
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+    height: 336px;
+}
+
+.pop-up-heading
+{
+    padding-left: 23px;
+    font-weight: bold;
+    margin-bottom: 24px;
+}
+
+.pop-up-points
+{
+    display: flex;
+    flex-direction: column;
+    line-height: 19px;
+    margin-left: 26px;
+}
+
+.heading-point{
+    font-size: 17px;
+    font-weight: 700;
+}
+
+.desc-point
+{
+    font-weight: 300;
+    font-size: 15px;
+}
+
+.point-icon
+{
+    font-size: 41px;
+    margin-right: 13px;
+}
+
+.next-btn
+{
+    position: absolute;
+    bottom: 2px;
+    cursor: pointer;
+    margin-bottom: 3px;
+}
+
+.icon-back
+{
+    margin-right: 29px;
+    cursor: pointer;
+}

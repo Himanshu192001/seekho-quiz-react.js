@@ -1,0 +1,71 @@
+.form-page
+{
+    position: relative;
+    height: 686px;
+}
+
+.btn-quiz
+{
+    height: 40px;
+    background-color: #8031A7;
+    position: absolute;
+    bottom: 3px;
+    width: 162px;
+    border-radius: 18px;
+    border: none;
+    color: white;
+    font-size: 19px;
+    cursor: pointer;
+}
+
+.active
+{
+    background-color: #8031A7 !important;
+    color: white;
+}
+
+.btn-quiz:hover
+{
+ background-color: #c88be7;
+}
+
+.container-btn
+{
+    position: absolute;
+    width: 100%;
+    bottom: 0px;
+    background-color: #c88be7;
+}
+
+.form{
+    background: #e9c2fd;
+    width: 100%;
+    height: 642px;
+    position: relative;
+}
+
+.ans-btn
+{
+    width: 319px;
+    height: 56px;
+    border-radius: 11px;
+    background-color: white;
+}
+
+.ans-container
+{
+    position: absolute;
+    bottom: 10px;
+    width: 100%;
+    margin: auto;
+    align-items: center;
+    flex-direction: column;
+    height: 292px;
+    
+}
+
+.que{
+    padding: 24px;
+    font-size: 21px;
+    font-weight: 800;
+}
